@@ -1,4 +1,4 @@
-from datetime import timedelta, datetime
+𝚕𝚘from datetime import timedelta, datetime
 import pytz
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -44,8 +44,8 @@ Aᴍᴏᴜɴᴛ:</b> {num_codes}
 
         keyboard = InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("♻️ Redeem Here ♻️", url="http://t.me/NehaTestBot")],
-                [InlineKeyboardButton("❕ Any Query ❕", url="https://t.me/IM_JISSHU")]
+                [InlineKeyboardButton("♻️ Redeem Here ♻️", url="https://t.me/about_me_jaan_lo")],
+                [InlineKeyboardButton("❕ Any Query ❕", url="https://t.me/about_me_jaan_lo")]
             ]
         )
 
